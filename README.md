@@ -1,76 +1,125 @@
 # 🧠 DSA Using Python
 
-A complete collection of Data Structures and Algorithms implemented in Python with simple, beginner-friendly, and well-structured code.
+A comprehensive collection of Data Structures and Algorithms implemented in Python. This repository is designed to help learners understand core DSA concepts through clean, beginner-friendly, and well-structured implementations.
 
-This repository is built for **learning, practice, and interview preparation**.
+## 📑 Table of Contents
+
+* About
+* Topics Covered
+* Repository Structure
+* Features
+* Learning Objectives
+* Getting Started
+* Author
+* License
+
+---
+
+## 🎯 Learning Objectives
+
+* Build a strong foundation in Data Structures and Algorithms.
+* Practice writing clean and efficient Python code.
+* Understand the core concepts behind common data structures.
+* Strengthen problem-solving skills.
+* Prepare for coding interviews and technical assessments.
 
 ---
 
 ## 📚 Topics Covered
 
-- Arrays
-- Strings
-- Searching
-- Sorting
-- Stack
-- Queue
-- Linked List
-- Trees
-- Recursion
-- Hashing
-- Heap
-- Graph
-- Dynamic Programming
+| Topic               | Description                             |
+| ------------------- | --------------------------------------- |
+| Arrays              | Basic array operations and manipulation |
+| Strings             | Common string algorithms                |
+| Searching           | Linear and Binary Search                |
+| Sorting             | Fundamental sorting algorithms          |
+| Stack               | Stack implementations and applications  |
+| Queue               | Queue implementations                   |
+| Linked List         | Basic linked list operations            |
+| Trees               | Tree traversal algorithms               |
+| Recursion           | Recursive problem solving               |
+| Hashing             | Hash maps and frequency counting        |
+| Heap                | Min Heap and Max Heap operations        |
+| Graph               | BFS, DFS, and graph representation      |
+| Dynamic Programming | Classic optimization problems           |
 
 ---
 
 ## 📂 Repository Structure
 
-```text
 DSA-Using-Python/
 
 ├── Arrays/
+
 ├── Strings/
+
 ├── Searching/
+
 ├── Sorting/
+
 ├── Stack/
+
 ├── Queue/
+
 ├── LinkedList/
+
 ├── Trees/
+
 ├── Recursion/
+
 ├── Hashing/
+
 ├── Heap/
+
 ├── Graph/
+
 ├── DynamicProgramming/
 
 ├── README.md
+
 └── LICENSE
-```
 
 ---
 
-## 🎯 Objective
+## 🌟 What You'll Learn
 
-- Learn DSA step-by-step using Python
-- Write clean and simple implementations
-- Strengthen problem-solving skills
-- Prepare for coding interviews and scholarships
-
----
-
-## 🚀 Features
-
-- Beginner-friendly code
-- Easy-to-understand implementations
-- Organized topic-wise structure
-- Covers core DSA concepts
-- Useful for interview preparation
+* Array manipulation
+* Searching techniques
+* Sorting algorithms
+* Recursive thinking
+* Stack and Queue operations
+* Linked List fundamentals
+* Tree traversals
+* Graph traversals
+* Dynamic Programming basics
+* Time and space complexity awareness
 
 ---
 
-## 🛠 Language Used
+## ✨ Features
 
-- Python 3
+* Beginner-friendly implementations
+* Clean and readable Python code
+* Topic-wise organized structure
+* Covers fundamental DSA concepts
+* Suitable for learning and practice
+* Useful for interview preparation
+
+---
+
+## ▶️ Getting Started
+
+Clone the repository:
+
+git clone https://github.com/notlexius-glitch/DSA-Using-Python.git
+
+Move into the project:
+
+cd DSA-Using-Python
+
+Run any file:
+
+python Arrays/reverse_array.py
 
 ---
 
@@ -78,14 +127,10 @@ DSA-Using-Python/
 
 **Praval Yadav**
 
-- GitHub: [@notlexius-glitch](https://github.com/notlexius-glitch)
+GitHub: @notlexius-glitch
 
 ---
 
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-⭐ If you like this repository, consider giving it a star!
