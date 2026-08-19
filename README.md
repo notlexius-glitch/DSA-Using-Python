@@ -173,6 +173,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,4 +182,9 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
