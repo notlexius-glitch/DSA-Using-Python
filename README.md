@@ -183,8 +183,21 @@ This project is licensed under the MIT License.
 | ------- |
 | [0231-power-of-two](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
