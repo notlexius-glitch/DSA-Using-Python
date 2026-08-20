@@ -162,10 +162,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -246,4 +248,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
