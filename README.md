@@ -142,16 +142,19 @@ This project is licensed under the MIT License.
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -252,4 +255,9 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
