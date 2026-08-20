@@ -157,6 +157,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0229-majority-element-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -236,4 +238,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
