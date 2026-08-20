@@ -161,6 +161,7 @@ This project is licensed under the MIT License.
 | [0229-majority-element-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0260-single-number-iii) |
 ## Recursion
 |  |
 | ------- |
