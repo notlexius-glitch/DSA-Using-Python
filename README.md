@@ -156,6 +156,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,4 +216,24 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
