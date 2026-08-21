@@ -196,6 +196,7 @@ This project is licensed under the MIT License.
 | [0263-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0273-integer-to-english-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +209,7 @@ This project is licensed under the MIT License.
 | [0231-power-of-two](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0273-integer-to-english-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -274,6 +276,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
+| [0273-integer-to-english-words](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0273-integer-to-english-words) |
 ## Backtracking
 |  |
 | ------- |
