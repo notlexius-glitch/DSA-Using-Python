@@ -167,6 +167,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0229-majority-element-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +188,7 @@ This project is licensed under the MIT License.
 | [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,6 +204,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -239,6 +242,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
