@@ -163,6 +163,7 @@ This project is licensed under the MIT License.
 | [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@ This project is licensed under the MIT License.
 | [0229-majority-element-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -282,4 +284,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
