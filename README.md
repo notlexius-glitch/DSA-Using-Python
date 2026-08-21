@@ -186,6 +186,7 @@ This project is licensed under the MIT License.
 | [0231-power-of-two](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
 | ------- |
