@@ -168,6 +168,7 @@ This project is licensed under the MIT License.
 | [0283-move-zeroes](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
 | ------- |
@@ -282,6 +283,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0289-game-of-life) |
 ## String
 |  |
 | ------- |
@@ -298,6 +300,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0289-game-of-life) |
 ## Number Theory
 |  |
 | ------- |
