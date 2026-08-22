@@ -166,6 +166,7 @@ This project is licensed under the MIT License.
 | [0274-h-index](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0284-peeking-iterator) |
 ## Hash Table
 |  |
 | ------- |
@@ -317,4 +318,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
