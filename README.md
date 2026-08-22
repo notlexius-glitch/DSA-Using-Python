@@ -176,6 +176,7 @@ This project is licensed under the MIT License.
 | [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0290-word-pattern) |
 ## Sorting
 |  |
 | ------- |
@@ -291,6 +292,7 @@ This project is licensed under the MIT License.
 | [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0290-word-pattern) |
 ## Backtracking
 |  |
 | ------- |
