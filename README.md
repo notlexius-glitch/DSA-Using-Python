@@ -204,6 +204,7 @@ This project is licensed under the MIT License.
 | [0273-integer-to-english-words](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -343,4 +344,24 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0287-find-the-duplicate-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
