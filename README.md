@@ -184,6 +184,7 @@ This project is licensed under the MIT License.
 | [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0295-find-median-from-data-stream) |
 ## Counting
 |  |
 | ------- |
@@ -235,6 +236,7 @@ This project is licensed under the MIT License.
 | [0234-palindrome-linked-list](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0295-find-median-from-data-stream) |
 ## Stack
 |  |
 | ------- |
@@ -269,6 +271,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -332,6 +335,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0295-find-median-from-data-stream) |
 ## Iterator
 |  |
 | ------- |
@@ -364,4 +368,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
