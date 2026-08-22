@@ -165,6 +165,7 @@ This project is licensed under the MIT License.
 | [0268-missing-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
