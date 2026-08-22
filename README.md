@@ -198,6 +198,7 @@ This project is licensed under the MIT License.
 | [0268-missing-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,10 +281,12 @@ This project is licensed under the MIT License.
 | [0242-valid-anagram](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
 ## Simulation
 |  |
 | ------- |
