@@ -206,6 +206,7 @@ This project is licensed under the MIT License.
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
