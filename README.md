@@ -174,6 +174,7 @@ This project is licensed under the MIT License.
 | [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +240,7 @@ This project is licensed under the MIT License.
 | [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0322-coin-change) |
 ## Linked List
 |  |
 | ------- |
@@ -347,14 +349,17 @@ This project is licensed under the MIT License.
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0322-coin-change) |
 ## Design
 |  |
 | ------- |
