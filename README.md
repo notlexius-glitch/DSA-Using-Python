@@ -172,6 +172,7 @@ This project is licensed under the MIT License.
 | [0289-game-of-life](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0312-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +234,7 @@ This project is licensed under the MIT License.
 | [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0312-burst-balloons) |
 ## Linked List
 |  |
 | ------- |
