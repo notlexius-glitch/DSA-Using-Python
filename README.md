@@ -170,6 +170,7 @@ This project is licensed under the MIT License.
 | [0287-find-the-duplicate-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +291,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
 ## Matrix
 |  |
 | ------- |
@@ -348,6 +350,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0284-peeking-iterator](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
 ## Iterator
 |  |
 | ------- |
@@ -388,4 +391,16 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
