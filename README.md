@@ -253,6 +253,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0316-remove-duplicate-letters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -314,6 +315,7 @@ This project is licensed under the MIT License.
 | [0299-bulls-and-cows](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0306-additive-number) |
+| [0316-remove-duplicate-letters](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0316-remove-duplicate-letters) |
 ## Backtracking
 |  |
 | ------- |
@@ -418,4 +420,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0310-minimum-height-trees) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
