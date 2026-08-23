@@ -216,6 +216,7 @@ This project is licensed under the MIT License.
 | [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0319-bulb-switcher) |
+| [1927-sum-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -319,6 +320,7 @@ This project is licensed under the MIT License.
 | [0301-remove-invalid-parentheses](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0316-remove-duplicate-letters) |
+| [1927-sum-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -391,6 +393,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
+| [1927-sum-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -431,6 +434,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0316-remove-duplicate-letters) |
+| [1927-sum-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
 | ------- |
