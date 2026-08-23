@@ -169,6 +169,7 @@ This project is licensed under the MIT License.
 | [0284-peeking-iterator](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@ This project is licensed under the MIT License.
 | [0233-number-of-digit-one](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +255,7 @@ This project is licensed under the MIT License.
 | [0275-h-index-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -376,4 +379,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0295-find-median-from-data-stream) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
