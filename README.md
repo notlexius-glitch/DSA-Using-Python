@@ -173,6 +173,7 @@ This project is licensed under the MIT License.
 | [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0313-super-ugly-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ This project is licensed under the MIT License.
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0313-super-ugly-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -235,6 +237,7 @@ This project is licensed under the MIT License.
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0313-super-ugly-number) |
 ## Linked List
 |  |
 | ------- |
