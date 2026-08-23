@@ -177,6 +177,7 @@ This project is licensed under the MIT License.
 | [0264-ugly-number-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0299-bulls-and-cows) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +190,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0299-bulls-and-cows) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -298,6 +300,7 @@ This project is licensed under the MIT License.
 | [0273-integer-to-english-words](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0299-bulls-and-cows) |
 ## Backtracking
 |  |
 | ------- |
