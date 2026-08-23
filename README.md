@@ -304,11 +304,13 @@ This project is licensed under the MIT License.
 | [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0301-remove-invalid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0301-remove-invalid-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -330,6 +332,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0301-remove-invalid-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
