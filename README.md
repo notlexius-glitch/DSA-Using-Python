@@ -149,6 +149,7 @@ This project is licensed under the MIT License.
 | [0110-balanced-binary-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0310-minimum-height-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -337,6 +338,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0279-perfect-squares](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0310-minimum-height-trees) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -403,4 +405,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
