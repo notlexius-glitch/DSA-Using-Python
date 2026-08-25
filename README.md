@@ -439,4 +439,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0316-remove-duplicate-letters) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
