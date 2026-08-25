@@ -175,6 +175,7 @@ This project is licensed under the MIT License.
 | [0312-burst-balloons](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0322-coin-change) |
+| [0324-wiggle-sort-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0324-wiggle-sort-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ This project is licensed under the MIT License.
 | [0268-missing-number](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0295-find-median-from-data-stream) |
+| [0324-wiggle-sort-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0324-wiggle-sort-ii) |
 ## Counting
 |  |
 | ------- |
@@ -303,6 +305,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0307-range-sum-query-mutable) |
+| [0324-wiggle-sort-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0324-wiggle-sort-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -434,6 +437,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0316-remove-duplicate-letters) |
+| [0324-wiggle-sort-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0324-wiggle-sort-ii) |
 | [1927-sum-game](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
@@ -443,4 +447,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0180-consecutive-numbers) |
+## Quickselect
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/notlexius-glitch/DSA-Using-Python/tree/master/0324-wiggle-sort-ii) |
 <!---LeetCode Topics End-->
